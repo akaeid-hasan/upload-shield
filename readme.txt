@@ -47,7 +47,7 @@ No. UploadShield adds an image-specific maximum inside WordPress. PHP/server lim
 
 = Does it block videos, PDFs or ZIP files? =
 
-No. Version 1.0.0 targets image uploads only.
+No. UploadShield currently targets image uploads only.
 
 = Does it show branding on my public website? =
 
